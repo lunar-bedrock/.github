@@ -1,6 +1,6 @@
 # Lunar
 
-The best utility proxy and client for Minecraft Bedrock.
+The best cheats for Minecraft Bedrock. Console Supported!
 
 # Downloads
 * IOS: Coming Soon
